@@ -30,7 +30,7 @@ const Book = [
     //"disneyplus.png",   "https://www.apps.disneyplus.com/sa/home",
     "fmovies.png",     "https://fmovies-watch.com/",
     "sheetmusic.png",     "https://musescore.com/",
-    "Stardima.png",     "Subsites/Cartoons(arabic)/index.html",
+    "stardima.png",     "Subsites/Cartoons(arabic)/index.html",
     "wcostream.png",     "https://m.wcostream.tv/cartoon-list",
     "egdybest.png",     "https://egybest.onl/",
     "fushaar.png",     "https://www.fushaar.link/",
@@ -65,9 +65,9 @@ const Book = [
     // Misc
     "virustotal.png", "https://www.virustotal.com/gui/",
     "gbatemp.png",     "https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/",
-    "Google.png",   "https://www.google.com/advanced_image_search",
+    "google.png",   "https://www.google.com/advanced_image_search",
     "drive.png",    "https://drive.google.com/drive/u/0/home",
-    "Google.png",     "https://www.google.com/",
+    "google.png",     "https://www.google.com/",
     "buffer.png",   "",
 
     // Youtube download / YT download
@@ -102,5 +102,6 @@ for (let i = 1; i < MarkLen/2+1; i++) {
 Markdisplay += "</div>";
 
 document.getElementById("Mark").innerHTML = Markdisplay;
+
 
 
