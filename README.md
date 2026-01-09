@@ -1,3 +1,3 @@
 # Bmarks
 Bookmarks
-for my devices
+for mobile devices
