@@ -5,7 +5,7 @@ const animeb = [
     "demon slayer", "https://hianime.to/watch/demon-slayer-kimetsu-no-yaiba-47",
     "One Pace",     "https://onepace.net/en",
     "spyfamily3",   "https://hianime.to/watch/spy-x-family-season-3-19931",
-    "mha",      "https://hianime.to/watch/my-hero-academia-season-6-18154",
+    "MHA",      "https://hianime.to/watch/my-hero-academia-season-6-18154",
     "deathnote", "https://hianime.to/watch/death-note-60",
 
     
@@ -46,5 +46,6 @@ for (let i = 1; i < originalaLen/2+1; i++) {
 originaladisplay += "</div>";
 
 document.getElementById("originalb").innerHTML = originaladisplay;
+
 
 
