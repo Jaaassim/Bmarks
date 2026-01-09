@@ -25,7 +25,7 @@ document.getElementById("Banner").innerHTML = bannerdisplay;
 
 const Book = [
     // Media
-    "hianime.png",     "Subsites/Anime/index.html",
+    "hianime.png",     "Subsites/anime/index.html",
     "steamgriddb.png",  "https://www.steamgriddb.com/",
     //"disneyplus.png",   "https://www.apps.disneyplus.com/sa/home",
     "fmovies.png",     "https://fmovies-watch.com/",
@@ -102,4 +102,5 @@ for (let i = 1; i < MarkLen/2+1; i++) {
 Markdisplay += "</div>";
 
 document.getElementById("Mark").innerHTML = Markdisplay;
+
 
