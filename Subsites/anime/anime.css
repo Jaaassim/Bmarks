@@ -1,0 +1,64 @@
+img {
+    height: 20vw;
+    text-align: center;
+    transition: 0.1s;
+    border-radius: 0vw;
+    padding: 0.5vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    opacity: 50%;
+}
+    
+img:hover {
+    height: 21vw;
+    transition: 0.1s;
+    margin-top: .5vw;
+    margin-bottom: .5vw;
+    margin-left: .5vw;
+    margin-right: .5vw;
+    outline: 0.5vw solid rgba(255, 255, 255, 0);
+    opacity: 100%;
+}
+    
+    
+    .og {
+        width: 200px;
+        height: inherit;
+        text-align: center;
+        transition: 0.1s;
+        border-radius: 25px;
+        padding: 5px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+        
+    .og:hover {
+        height: inherit;
+        outline: 6px solid white;
+        color: black;
+        transition: 0.1s;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 210px;
+    }
+    
+    
+    
+    
+    body {
+        text-align: center;
+        background-color: rgb(50, 50, 50);
+    }
+    
+    footer {
+        background-color: rgb(37, 37, 37);
+    }
+    
+    
+    
