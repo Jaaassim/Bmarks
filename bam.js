@@ -103,6 +103,8 @@ websites = [
     "blue.png",     "https://archive.org/details/@maelly_pooh", "PS4 ROMs Internet archive",
     "blue.png",     "https://dlpsgame.com/category/ps4/", "PS4 ROMs",
     "r roms.png",       "https://r-roms.github.io/","",
+    "blue.png",     "https://www.romhacking.net/",  "Romhacks",
+    "gray.png",     "https://www.marcrobledo.com/RomPatcher.js/",   "rom patcher",
     "co-optimus.png",     "https://www.co-optimus.com/system/28/nintendo-switch.html","",
     "buffer.png",   "","",
 
