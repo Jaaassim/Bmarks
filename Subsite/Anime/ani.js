@@ -4,14 +4,14 @@ websites = [
     "demon slayer.png",                 "watch/demon-slayer-kimetsu-no-yaiba",             "",
     // "One Pace.png",                 "watch/spy-x-family-season-3-19931",             "",
     // "mha.png",                 "watch/my-hero-academia-season-6-18154",             "                                 season 6",
-    "Yu Yu Hakusho.png",     "watch/yu-yu-hakusho-ghost-files",         "",
-    "white.png",    "watch/frieren-beyond-journeys-end",   "Frieren",
-    "black.png",    "watch/mob-psycho-100",   "Mob Psycho 100",
+    "frieren.png",    "watch/frieren-beyond-journeys-end",   "",
+    "mob.png",    "watch/mob-psycho-100",   "",
     
     "buffer.png",                 "",             "On going",
     "sakamoto.png",               "watch/sakamoto-days-part-2",               "",
     
     "buffer.png",                 "",             "Seen",
+    "Yu Yu Hakusho.png",     "watch/yu-yu-hakusho-ghost-files",         "",
     "spyfamily3.png",                 "watch/spy-x-family-season-3",             "",
     "Dragonball Daima.png",         "watch/dragon-ball-daima",                 "",             
     
