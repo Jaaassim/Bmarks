@@ -5,6 +5,7 @@ websites = [
     // "Stardima.png",     "Subsites/Cartoons(arabic)/index.html","",
     "stardima.png", "https://stardima-lf.cartoon.com.im/",     "",
     "fmovies.png",     "https://fmovies-watch.com/","",
+    "black.png",    "https://67movies.net/",    "6 six seven 7",
     "wcostream.png",     "https://m.wcostream.tv/cartoon-list","",
     "pintrest.png", "https://www.pinterest.com/",   "",
     "instagram.png", "https://www.instagram.com/jassim_aldajani/saved/","",
@@ -17,6 +18,30 @@ websites = [
     "youtube.png",  "https://www.youtube.com/",    "",
     "orange.png",   "https://mangadex.org/",    "MangaDex",
     // "grey.png",     "https://eu.bbcollab.com/guest/0ef9f8c98cd54265aa4e393271046007",   "Online class",
+    "buffer.png",   "","",
+    
+    // Games
+    "Archipelago.png",  "https://archipelago.gg/", "", 
+    "blue.png", "https://www.ifixit.com/", "ifixit",
+    "steam.png", "https://store.steampowered.com/",  "",
+    "black.png",    "https://steamdb.info/",    "SteamDB",
+    "gamebanana.png",     "https://gamebanana.com/",    "",
+    "steamgriddb.png",  "https://www.steamgriddb.com/","",
+    "buffer.png",   "","",
+
+    // Misc
+    "white.png",    "https://www.wiki-calendar.com/", "Wiki calendar📅",
+    "grey.png",    "https://vdo.ninja/?v=Jaaaassim",   "VDO Ninja",
+    "orange.png",   "https://virtualpiano.net/",        "🎹",
+    "blue.png",     "https://spacetoon.com/ar/",        "Spacetoon",
+    "virustotal.png", "https://www.virustotal.com/gui/","",
+    "gbatemp.png",     "https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/","",
+    "roblox.png",     "https://www.roblox.com/users/218402329/favorites#!/places","",
+    "google.png",   "https://www.google.com/advanced_image_search","images",
+    "drive.png",    "https://drive.google.com/drive/u/0/home","",
+    "google.png",   "https://translate.google.com/?sl=en&tl=ar&text=beneficiaries&op=translate",    "Translate",
+    "google.png",   "https://mail.google.com/mail/u",    "Gmail",
+    "google.png",     "https://www.google.com/","",
     "buffer.png",   "","",
     
     // Media
@@ -44,29 +69,6 @@ websites = [
     // "canva.png", "https://www.canva.com/","",
     "outlook.png", "https://outlook.office365.com/","",
     "google.png", "https://docs.google.com/document/u/0/", "Google Docs",
-    "buffer.png",   "","",
-    
-    // Misc
-    "white.png",    "https://www.wiki-calendar.com/", "Wiki calendar📅",
-    "grey.png",    "https://vdo.ninja/?v=Jaaaassim",   "VDO Ninja",
-    "orange.png",   "https://virtualpiano.net/",        "🎹",
-    "blue.png",     "https://spacetoon.com/ar/",        "Spacetoon",
-    "virustotal.png", "https://www.virustotal.com/gui/","",
-    "gbatemp.png",     "https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/","",
-    "roblox.png",     "https://www.roblox.com/users/218402329/favorites#!/places","",
-    // "classera.png",     "https://me.classera.com/","",
-    "google.png",   "https://www.google.com/advanced_image_search","images",
-    "drive.png",    "https://drive.google.com/drive/u/0/home","",
-    "google.png",   "https://translate.google.com/?sl=en&tl=ar&text=beneficiaries&op=translate",    "Translate",
-    "google.png",   "https://mail.google.com/mail/u",    "Gmail",
-    "google.png",     "https://www.google.com/","",
-    "buffer.png",   "","",
-    
-    // Games
-    "steam.png", "https://store.steampowered.com/",  "",
-    "black.png",    "https://steamdb.info/",    "SteamDB",
-    "gamebanana.png",     "https://gamebanana.com/",    "",
-    "steamgriddb.png",  "https://www.steamgriddb.com/","",
     "buffer.png",   "","",
     
     // Minecraft
