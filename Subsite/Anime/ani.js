@@ -26,7 +26,7 @@ serves = "https://www1.anikai.cc/"
 // console.log(websites.length/2 + 1)
 let displayWebsites = "<div id=\"URLs\">";
 for (let i = 1; i < websites.length/3 + 1; i++) {
-    displayWebsites += "<a class=\"urls\" href=\"" + serves + websites[3*i-2] + "\"><div onclick=\"Done()\" class=\"animes\"><img class=\"logos\" src=\"Subsite/Anime/Logo/" + websites[3*i-3] + "\"><p class=\"Placeholdertext\">" + websites[3*i-1] + "</p></div></a>"
+    displayWebsites += "<a class=\"urls\" href=\"" + serves + websites[3*i-2] + "\"><div onclick=\"Done()\" class=\"animes\"><img class=\"logos\" src=\"Logo/" + websites[3*i-3] + "\"><p class=\"Placeholdertext\">" + websites[3*i-1] + "</p></div></a>"
     // console.log(2*i-1)
     // console.log(2*i-2)
 }

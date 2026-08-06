@@ -1,10 +1,11 @@
 websites = [
 //  "WebsiteLogo",      "WebsiteURL",
     // Social Media
-    "hianime.png",     "anime.html","",
+    "hianime.png",     "Subsite/Anime/anime.html","",
     // "Stardima.png",     "Subsites/Cartoons(arabic)/index.html","",
     "stardima.png", "https://stardima-lf.cartoon.com.im/",     "",
     "fmovies.png",     "https://fmovies-watch.com/","",
+    "blue.png", "mycima.pink",  "Mycima",
     "black.png",    "https://67movies.net/",    "6 six seven 7",
     "wcostream.png",     "https://m.wcostream.tv/cartoon-list","",
     "pintrest.png", "https://www.pinterest.com/",   "",
@@ -18,19 +19,35 @@ websites = [
     "youtube.png",  "https://www.youtube.com/",    "",
     "orange.png",   "https://mangadex.org/",    "MangaDex",
     // "grey.png",     "https://eu.bbcollab.com/guest/0ef9f8c98cd54265aa4e393271046007",   "Online class",
+    "white.png",    "../../blog/Homepage.html",    "🗣️",
     "buffer.png",   "","",
     
     // Games
     "Archipelago.png",  "https://archipelago.gg/", "", 
-    "blue.png", "https://www.ifixit.com/", "ifixit",
+    "white.png",    "https://neal.fun/",     "NEAL.FUN",
     "steam.png", "https://store.steampowered.com/",  "",
     "black.png",    "https://steamdb.info/",    "SteamDB",
     "gamebanana.png",     "https://gamebanana.com/",    "",
+    "blue.png", "https://blueprince.wiki.gg/",  "Blue Prince Wiki",
     "steamgriddb.png",  "https://www.steamgriddb.com/","",
+    "minecraft.png",     "https://www.minecraft.net/en-us/msaprofile","",
+    "brown.png",    "https://nogard.dev/tools/",    "Minecraft tools",
+    "minecraftwiki.png",     "https://minecraft.wiki/","",
+    "aternos.png", "https://aternos.org/server/","",
+    "chunkbase.png",    "https://www.chunkbase.com/apps/","",
+    "curseforge java.png",     "https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=relevancy","",
+    "modrinth.png",     "https://modrinth.com/mods","",
+    "curseforge bedrock.png",     "https://www.curseforge.com/minecraft-bedrock/search?page=1&pageSize=20&sortBy=popularity","",
+    "mcpedl.png",     "https://mcpedl.com/","",
+    "modbay.png",   "https://modbay.org/page/2/","",
+    "bedrock explorer.png",     "https://www.bedrockexplorer.com/spotlight/free-content/all/maps-and-skins/latest","",
     "buffer.png",   "","",
-
+    
     // Misc
+    "blue.png", "https://www.ifixit.com/", "ifixit",
+    "blue.png", "https://fileinfo.com/",    "File Info",
     "white.png",    "https://www.wiki-calendar.com/", "Wiki calendar📅",
+    "cyan.png", "https://keyboard-tester.net/", "Keyboard test",
     "grey.png",    "https://vdo.ninja/?v=Jaaaassim",   "VDO Ninja",
     "orange.png",   "https://virtualpiano.net/",        "🎹",
     "blue.png",     "https://spacetoon.com/ar/",        "Spacetoon",
@@ -71,18 +88,6 @@ websites = [
     "google.png", "https://docs.google.com/document/u/0/", "Google Docs",
     "buffer.png",   "","",
     
-    // Minecraft
-    "minecraft.png",     "https://www.minecraft.net/en-us/msaprofile","",
-    "minecraftwiki.png",     "https://minecraft.wiki/","",
-    "aternos.png", "https://aternos.org/server/","",
-    "chunkbase.png",    "https://www.chunkbase.com/apps/","",
-    "curseforge java.png",     "https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=relevancy","",
-    "modrinth.png",     "https://modrinth.com/mods","",
-    "curseforge bedrock.png",     "https://www.curseforge.com/minecraft-bedrock/search?page=1&pageSize=20&sortBy=popularity","",
-    "mcpedl.png",     "https://mcpedl.com/","",
-    "modbay.png",   "https://modbay.org/page/2/","",
-    "bedrock explorer.png",     "https://www.bedrockexplorer.com/spotlight/free-content/all/maps-and-skins/latest","",
-    "buffer.png",   "","",
 
     // Youtube download / YT download
     "ytmp4.png",     "https://en1.savefrom.net/21-youtube-to-mp4-37Nq.html","",
