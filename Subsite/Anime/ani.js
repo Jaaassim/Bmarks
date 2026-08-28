@@ -1,14 +1,14 @@
 websites = [
-//  "WebsiteLogo",      "WebsiteURL",
-"frieren.png",    "watch/frieren-beyond-journeys-end",   "",
-"mob.png",    "watch/mob-psycho-100",   "",
-"fmab.jpg",     "https://www3.anikai.cc/watch/fullmetal-alchemist-brotherhood/ep-1",    "",
-"demon slayer.png",                 "watch/demon-slayer-kimetsu-no-yaiba",             "",
-"conan.png",                 "watch/case-closed",             "",
+    //  "WebsiteLogo",      "WebsiteURL",
+    "mob.png",    "watch/mob-psycho-100",   "",
+    "fmab.jpg",     "https://www3.anikai.cc/watch/fullmetal-alchemist-brotherhood/ep-1",    "",
+    "demon slayer.png",                 "watch/demon-slayer-kimetsu-no-yaiba",             "",
+    "conan.png",                 "watch/case-closed",             "",
     // "One Pace.png",                 "watch/spy-x-family-season-3-19931",             "",
     // "mha.png",                 "watch/my-hero-academia-season-6-18154",             "                                 season 6",
     
     "buffer.png",                 "",             "On going",
+    "frieren.png",    "watch/frieren-beyond-journeys-end",   "",
     "sakamoto.png",               "watch/sakamoto-days-part-2",               "",
     
     "buffer.png",                 "",             "Seen",

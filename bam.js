@@ -41,6 +41,22 @@ websites = [
     "bedrock explorer.png",     "https://www.bedrockexplorer.com/spotlight/free-content/all/maps-and-skins/latest","",
     "buffer.png",   "","",
     
+    // University
+    // "white.png",    "timer",    "Timer",
+    // "collegebanner1.png", "https://pybanner.kfu.edu.sa/?NoauthenMsg=NoAuth", "بانر التحظيري",
+    // "moodle.png", "https://pydm.kfu.edu.sa/login/", "",
+    // "pearson.png", "https://mycourses.pearson.com/course-home#/tab/active","",
+    // "pearson.png",  "https://plus.pearson.com/home",    "+",
+    // "white.png",    "https://mediaplayer.pearsoncmg.com/assets/_video.true/secs-yf-vts-ex25-5",     "Physics solve example videos",
+    // "canva.png", "https://www.canva.com/","",
+    "white.png",        "https://services.kfu.edu.sa/Banner/",      "البانر العام",
+    "blackboard.png", "https://reglms.kfu.edu.sa","",
+    "google.png", "https://docs.google.com/document/u/0/", "Google Docs",
+    "desmos.png", "https://www.desmos.com/calculator","",
+    "scicalc.png", "https://www.desmos.com/scientific","",
+    "outlook.png", "https://outlook.office365.com/","",
+    "buffer.png",   "","",
+    
     // Misc
     "ifixit.png", "https://www.ifixit.com/", "",
     "fileico.png", "https://fileinfo.com/",    "File Info",
@@ -70,21 +86,6 @@ websites = [
     "faselhd.png",      "https://web29.faselhd1watch.one/","",
     "buffer.png",   "","",
     
-    // University
-    // "white.png",    "timer",    "Timer",
-    "desmos.png", "https://www.desmos.com/calculator","",
-    "scicalc.png", "https://www.desmos.com/scientific","",
-    "collegebanner1.png", "https://pybanner.kfu.edu.sa/?NoauthenMsg=NoAuth", "بانر التحظيري",
-    "white.png",        "https://services.kfu.edu.sa/Banner/",      "البانر العام",
-    "blackboard.png", "https://reglms.kfu.edu.sa","",
-    // "moodle.png", "https://pydm.kfu.edu.sa/login/", "",
-    // "pearson.png", "https://mycourses.pearson.com/course-home#/tab/active","",
-    // "pearson.png",  "https://plus.pearson.com/home",    "+",
-    // "white.png",    "https://mediaplayer.pearsoncmg.com/assets/_video.true/secs-yf-vts-ex25-5",     "Physics solve example videos",
-    // "canva.png", "https://www.canva.com/","",
-    "outlook.png", "https://outlook.office365.com/","",
-    "google.png", "https://docs.google.com/document/u/0/", "Google Docs",
-    "buffer.png",   "","",
     
 
     // Youtube download / YT download
