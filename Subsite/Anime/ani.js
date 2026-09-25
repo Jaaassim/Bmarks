@@ -1,7 +1,7 @@
 websites = [
     //  "WebsiteLogo",      "WebsiteURL",
     "mob.png",    "watch/mob-psycho-100",   "",
-    "fmab.jpg",     "https://www3.anikai.cc/watch/fullmetal-alchemist-brotherhood/ep-1",    "",
+    "fmab.jpg",     "watch/fullmetal-alchemist-brotherhood/ep-1",    "",
     "demon slayer.png",                 "watch/demon-slayer-kimetsu-no-yaiba",             "",
     "conan.png",                 "watch/case-closed",             "",
     // "One Pace.png",                 "watch/spy-x-family-season-3-19931",             "",
@@ -17,12 +17,12 @@ websites = [
     "Dragonball Daima.png",         "watch/dragon-ball-daima",                 "",             
     
     "buffer.png",   "",     "",
-    "hianime.png",          "",              "",
+    "hianime.png",          "",              "home",
     // "",                 "",             "",
     // "",                 "",             "",
 ];
 
-serves = "https://www1.anikai.cc/"
+serves = "https://anikai.online/"
 
 // console.log(websites.length/2 + 1)
 let displayWebsites = "<div id=\"URLs\">";
